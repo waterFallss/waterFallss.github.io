@@ -1,5 +1,5 @@
 # Wireguard 
-
+![WIREGUARD_LOGO](images/wireguard_logo.jpg)
 #### 1. Create a DigitalOcean.com account.
 
 #### 2. Create a Digital Ocean Ubuntu Droplet.
