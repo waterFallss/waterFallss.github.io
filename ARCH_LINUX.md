@@ -1,3 +1,8 @@
+---
+title: Arch
+layout: template
+filename: ARCH_LINUX.md
+--- 
 # ARCH-LINUX
 ![ARCH](ARCH_PIC.jpg)
 
