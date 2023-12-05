@@ -1,6 +1,6 @@
 # Wireguard 
 ![WIREGUARD_LOGO](images/wireguard_logo.jpg)
-
+***
 ## Table of Contents:📑
 - [Create an Account](#create_account)
 - [Create a Droplet](#droplet)
