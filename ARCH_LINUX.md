@@ -1,8 +1,3 @@
----
-title: Arch
-layout: template
-filename: ARCH_LINUX.md
---- 
 # ARCH-LINUX
 ![ARCH](ARCH_PIC.jpg)
 
@@ -29,7 +24,6 @@ filename: ARCH_LINUX.md
       - [Adding Aliases 📓 ](#adding-aliases--)
       - [Error: Quick Fixes ❓ ](#error-quick-fixes--)
     - [REFERENCES ](#references-)
-    - [Links to Other Parts of Website:](#links-to-other-parts-of-website)
 
 #### Arch Linux Downloads and Pre-Installation Steps 🅰️ <a name="preinstall"></a>
 ***
