@@ -1,7 +1,7 @@
 # Wireguard 
 ![WIREGUARD_LOGO](images/wireguard_logo.jpg)
 ## 1. Create a DigitalOcean.com account.
-
+***
 ## 2. Create a Digital Ocean Ubuntu Droplet.
 ***
 1) Select a Region
@@ -96,7 +96,7 @@ services:
 ```
 - TZ [timezone]: Modify the timezone. (e.g. America/Chicago)
 - SERVERURL [Server IP Address]: It can be located on the DigitalOcean dashboard. (e.g. 164.92.115.246)
-PEERS [Number of User-config-files to Generate or the Names of User-config-files]:  Example --> PEERS=3 will generate peer_1, peer_2 and peer_3. PEERS=pc1,pc2,phone1 will generate peer_pc1, peer_pc2 and peer_phone1.
+- PEERS [Number of User-config-files to Generate or the Names of User-config-files]:  Example --> PEERS=3 will generate peer_1, peer_2 and peer_3. PEERS=pc1,pc2,phone1 will generate peer_pc1, peer_pc2 and peer_phone1.
 ```
 12. Start Wireguard
 ```
@@ -111,22 +111,22 @@ docker-compose logs -f wireguard
 
 ## Results:
 ***
-##### Before the VPN is turned on.
+#### Before the VPN is turned on.(Tablet)
 ***
 ![PHONE_BEFORE](images/phone_before.jpg)
 
-##### After the VPN is turned on.
+#### After the VPN is turned on. (Tablet)
 ***
 ![PHONE_AFTER](images/phone_after.jpg)
 ***
-##### Configuration for the Laptop
+#### Configuration for the Laptop
 ***
 ![LAPTOP_WIREGUARD](images/laptop_wireguard.jpg)
 ***
-##### Before the VPN is turned on.
+#### Before the VPN is turned on.(Laptop)
 ***
 ![LAPTOP_BEFORE](images/laptop_before.jpg)
-##### After the VPN is turned on.
+#### After the VPN is turned on. (Laptop)
 ***
 ![LAPTOP_AFTER](images/laptop_after.jpg)
 ***
