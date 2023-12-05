@@ -1,8 +1,14 @@
 # Wireguard 
 ![WIREGUARD_LOGO](images/wireguard_logo.jpg)
-## 1. Create a DigitalOcean.com account.
+
+## Table of Contents:📑
+- [Create an Account](#create_account)
+- [Create a Droplet](#droplet)
+- [Set up a Docker](#docker)
+- [Results for both Tablet and Laptop](#results)
+## 1. Create a DigitalOcean.com account. <a name="create_account"></a>
 ***
-## 2. Create a Digital Ocean Ubuntu Droplet.
+## 2. Create a Digital Ocean Ubuntu Droplet. <a name="droplet"></a>
 ***
 1) Select a Region
 2) Select a Data Center
@@ -18,7 +24,7 @@
    5) Save Private Key
    6) Add SSH Key
 
-## 3. Set Up Docker
+## 3. Set Up Docker <a name="docker"></a>
 ***
 1. Necessary Installations
 ```
@@ -109,7 +115,7 @@ docker-compose logs -f wireguard
 ```
 14. Utilize the QR code provided to create a tunnel.
 
-## Results:
+## Results: <a name="results"></a>
 ***
 #### Before the VPN is turned on.(Tablet)
 ***
