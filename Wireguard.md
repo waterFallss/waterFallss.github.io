@@ -111,22 +111,22 @@ docker-compose logs -f wireguard
 
 #### Results:
 ***
-- Before the VPN is turned on.
+##### Before the VPN is turned on.
 ***
 ![PHONE_BEFORE](images/phone_before.jpg)
 
-- After the VPN is turned on.
+##### After the VPN is turned on.
 ***
 ![PHONE_AFTER](images/phone_after.jpg)
 ***
-- Configuration for the Laptop
+##### Configuration for the Laptop
 ***
 ![LAPTOP_WIREGUARD](images/laptop_wireguard.jpg)
 ***
-- Before the VPN is turned on.
+##### Before the VPN is turned on.
 ***
 ![LAPTOP_BEFORE](images/laptop_before.jpg)
-- After the VPN is turned on.
+##### After the VPN is turned on.
 ***
 ![LAPTOP_AFTER](images/laptop_after.jpg)
 ***
