@@ -1,3 +1,8 @@
+---
+title: Wireguard
+layout: template
+filename: Wireguard.md
+--- 
 # Wireguard 
 ![WIREGUARD_LOGO](images/wireguard_logo.jpg)
 ***

@@ -2,25 +2,29 @@
 ![ARCH](ARCH_PIC.jpg)
 
 #### Table of Contents 📑
-1. [Arch Linux Downloads and Pre-Installation Steps](#preinstall)
-2. [Installation Steps on VMWare](#vmware)
-3. [Check Connection with the Internet](#connection)
-4. [Update System Clock](#clock)
-5. [Partitioning](#partition)
-6. [Formatting the Partitions](#format)
-7. [Mirror Selection](#mirror)
-8. [Mount File Systems](#mount)
-9. [Package Installation Including Another Shell](#package)
-10. [System Configuration](#configure)
-11. [Network Configuration](#network)
-12. [Username and Password](#userPass)
-13. [Setting Up the Desktop Environment](#desktop)
-14. [Shut Down](#off)
-15. [Installing SSH](#ssh)
-16. [Terminal Color-Coding](#terminalColor)
-17. [Adding Aliases](#alias)
-18. [Error: Quick Fixes](#error)
-19. [References](#reference)
+- [ARCH-LINUX](#arch-linux)
+      - [Table of Contents 📑](#table-of-contents-)
+      - [Arch Linux Downloads and Pre-Installation Steps 🅰️ ](#arch-linux-downloads-and-pre-installation-steps-️-)
+      - [Installation Steps on VMWare ✏️ ](#installation-steps-on-vmware-️-)
+      - [Check Connection with the Internet 🖨️ ](#check-connection-with-the-internet-️-)
+      - [Update System Clock ⏰ ](#update-system-clock--)
+      - [Partitioning 🗃️ ](#partitioning-️-)
+      - [Formatting the Partitions ℹ️ ](#formatting-the-partitions-ℹ️-)
+      - [Mirror Selection 🪞 ](#mirror-selection--)
+      - [Mount File Systems 📂 ](#mount-file-systems--)
+      - [Basic Installation 🖥️ ](#basic-installation-️-)
+      - [System Configuration ☑️ ](#system-configuration-️-)
+      - [Network Configuration ☎️ ](#network-configuration-️-)
+      - [GRUB Installation 💻 ](#grub-installation--)
+      - [Username and Password 📔 ](#username-and-password--)
+      - [Setting Up the Desktop Environment 🖥️ ](#setting-up-the-desktop-environment-️-)
+      - [Shut Down 🚪 ](#shut-down--)
+      - [Installing SSH 🖱️ ](#installing-ssh-️-)
+      - [Terminal Color-Coding 🖍️ ](#terminal-color-coding-️-)
+      - [Adding Aliases 📓 ](#adding-aliases--)
+      - [Error: Quick Fixes ❓ ](#error-quick-fixes--)
+    - [REFERENCES ](#references-)
+    - [Links to Other Parts of Website:](#links-to-other-parts-of-website)
 
 #### Arch Linux Downloads and Pre-Installation Steps 🅰️ <a name="preinstall"></a>
 ***
@@ -347,3 +351,5 @@ unalias [ALIAS_NAME]
 5. https://averagelinuxuser.com/linux-terminal-color/
 6. https://www.cyberciti.biz/faq/create-permanent-bash-alias-linux-unix/
 
+### Links to Other Parts of Website:
+- [Wireguard](Wireguard.md)
