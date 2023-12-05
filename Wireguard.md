@@ -118,6 +118,9 @@ docker-compose logs -f wireguard
 #### After the VPN is turned on. (Tablet)
 ***
 ![PHONE_AFTER](images/phone_after.jpg)
+
+***
+#### Check to see if the VPN Tunnel is Active.
 ***
 ![PHONE_ACTIVE](images/phone_wireguard_active.jpg)
 ***
